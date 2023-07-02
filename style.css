@@ -11,11 +11,17 @@ img{
     display: inline-block;
     border-radius: 50%;
 }
-h1{
-    
-    display: inline-block;
-    padding: 30px 30px 30px 0px;
-    position: absolute;
+.container{
+    display: flex;
+    align-self: baseline;
+
+}
+.container img{
+    padding: 15px;
+    border-radius: 50%;
+}
+.container h1{
+    padding-top: 20px;
 }
 @media (max-width:680px){
         body{
