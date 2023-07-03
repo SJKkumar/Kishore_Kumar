@@ -12,8 +12,11 @@ img{
     border-radius: 50%;
 }
 .container{
-    display: flex;
-    align-self: baseline;
+    padding: 15px;
+    height: 150px;
+    border-radius: 50%;
+    align-items: center;
+    gap: 25px;
 
 }
 .container img{
@@ -21,7 +24,7 @@ img{
     border-radius: 50%;
 }
 .container h1{
-    padding-top: 20px;
+    padding-top: 50px;
 }
 @media (max-width:600px){
         body{
