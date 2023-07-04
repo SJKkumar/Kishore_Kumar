@@ -6,22 +6,19 @@ body{
 h2{
     font-size: 25px;
 }
-img{
-    padding: 15px;
-    display: inline-block;
-    border-radius: 50%;
-}
+
 .container{
+   display: flex;
+    align-self: center;
+    gap: 25px;
+}
+.container img{
     padding: 15px;
     height: 150px;
     border-radius: 50%;
     align-items: center;
     gap: 25px;
 
-}
-.container img{
-    padding: 15px;
-    border-radius: 50%;
 }
 .container h1{
     padding-top: 50px;
