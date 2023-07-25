@@ -1,6 +1,8 @@
 body{
-    background-color: beige;
-        margin: 15px;
+    background-color: #383755;
+    margin: 15px;
+    border-color: rgb(138, 42, 42);
+    color: #fbfbfb;
 
 }
 h2{
