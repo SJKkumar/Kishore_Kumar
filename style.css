@@ -10,8 +10,8 @@ h2{
 }
 
 .container{
-   display: flex;
-    align-self: center;
+    display: flex;
+    justify-content: space-around;
     gap: 25px;
 }
 .container img{
