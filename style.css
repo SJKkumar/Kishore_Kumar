@@ -1,5 +1,5 @@
 body{
-    background-color: #383755;
+    background-color: #0C134F;
     margin: 15px;
     border-color: rgb(138, 42, 42);
     color: #fbfbfb;
@@ -21,6 +21,14 @@ h2{
 }
 .container h1{
     padding-top: 50px;
+}
+.button{
+    background-color: #BFDCE5;
+    padding: 14px 40px;
+    border-radius: 8px;
+    font-weight: bolder;
+    color: #0C134F;
+
 }
 @media (max-width:600px){
         body{
